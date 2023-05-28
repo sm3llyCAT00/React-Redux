@@ -1,0 +1,31 @@
+What is Redux? 
+- It is a predictable state container for Javascript applications. 
+
+Now, what exaxctly does that mean? 
+- Redux gives us the tools as well as the workflow to achieve not only just predictability but maintainability,
+    testability, scalability and readability to the application if done proper.  
+
+Advantages
+- debugging
+- developer tools
+- generating error reports
+- flexible to work with any UI layer, not just react
+- Huge ecosystem of add ons 
+- matured community to support and maintain
+
+- REDUX IS A LIBRARY -
+
+Why REDUX? 
+- Manage global applciation state
+- What is the problem if we do not manage state? (i.e: jQuery - whc directly apply on top of the DOM)
+- How does redux help solve the mess?
+    - Redux says, "Managing state is the KEY! Hey, we want you to separate state from the application, and set rules so that there 
+    are restictions in accessing and modifying the state. And when state actually changes, we keep track of 
+        - When the state was changed
+        - Why & how was the state changed
+        - Where all in the application did that state change imapcted
+- Guides us towards writing predictable code
+- Now that cetainly helps to avoid a sleepless night in a late evening production release!
+
+When should we use redux? 
+- not all apps may need redux to be paired along with it as a state management solution. 
